@@ -1,3 +1,3 @@
-[![Screenshot](samples/capture.png)]
+![Screenshot](samples/Capture.png)
 
-[![GIF](samples/video.gif)]
+![GIF](samples/video.gif)
